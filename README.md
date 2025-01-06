@@ -25,7 +25,7 @@ Aquí te dejo algunos de mis proyectos más importantes:
 
 1. **Pokemon Wiki**  
    Descripción: Ejemplo de App iOS con Swift, SwiftUI y consumo de la API REST de Pokémon
-   - [Enlace al proyecto en GitHub]
+   - [Repo Poke-Wiki](https://github.com/VegmaCode/poke-wiki)
 
 ## 📊 Estadísticas de GitHub
 [![VegmaCode](https://github-readme-stats.vercel.app/api?username=vegmacode&show_icons=true&theme=radical)](https://github.com/vegmacode)
