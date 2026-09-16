@@ -18,14 +18,18 @@ Aqui iré actualizando mis proyectos y avances.
 ## 🚀 Mis habilidades
 - **Lenguajes de programación**: HTML/CSS, JavaScript, Phyton, C#, Swift 
 - **Frameworks y librerías**: SwiftUI
-- **Herramientas y tecnologías**: Git, AWS
+- **Herramientas y tecnologías**: Git, AWS, Azure, Docker, Nginx, Portainer, Proxmox.
 
 ## 📑 Proyectos destacados
 Aquí te dejo algunos de mis proyectos más importantes:
 
 1. **Pokemon Wiki**  
-   Descripción: Ejemplo de App iOS con Swift, SwiftUI y consumo de la API REST de Pokémon
+   Ejemplo de App iOS con Swift, SwiftUI y consumo de la API REST de Pokémon
    - [Repo Poke-Wiki](https://github.com/VegmaCode/poke-wiki)
+
+2. **UniFi Telegram Bot**
+   Recibe en tiempo real alertas en Telegram de tu infraestructura UniFi
+   - [Repo UniFi Bot](https://github.com/VegmaCode/unifi-telegram-bot)
 
 ## 📊 Estadísticas de GitHub
 [![VegmaCode](https://github-readme-stats.vercel.app/api?username=vegmacode&show_icons=true&theme=radical)](https://github.com/vegmacode)
